@@ -1,6 +1,7 @@
 # R Spatial Data Visualization
 
-Instruction with practical types of time series visualization in r. Time series data is measurement taken over time, such as temperature, stock price and so on. It aim to study the evolution of one or several variables through time. Therefore, how to design the time axis is the central question in visualizing time series.
+Instruction with practical types of spatial visualization in r.A map chart is used to show items on a background that is often geographical. Map charts in R can contain different type of information in one or more different layers. Maps can contain interactive shapes or display markers of different types on an image or map background.
+
 
 The HTML file is oversize, Please download the HTML file to take a look and interact with the plots
 
